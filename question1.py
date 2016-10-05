@@ -5,10 +5,7 @@ def print_tree(height):
 	# check if input is an int, a float, or garbage data
 	# use int, ignore float and garbage data, careful not to use a float as an int, easy to do in python
 	try:
-		float_check = float(height)
-		int_check = int(height)
-		if float_check == int_check:
-			height = int_check
+		height = int(height)
 	except:
 		raise ValueError("Invalid, input is not an integer.")
 
