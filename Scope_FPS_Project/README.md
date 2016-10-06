@@ -1,0 +1,20 @@
+==Simple FPS Project
+
+*Mouse controls to aim in first person
+
+*Left mouse click or Enter key to shoot orbs
+
+*4 targets that can be hit for points
+
+*Unity 5.4.1
+
+Packages:
+
+*Characters, Character Controllers (For first person functionality)
+
+*Environment
+
+*UnityChan: https://www.assetstore.unity3d.com/en/#!/content/18705
+
+*Cute Kitten: https://www.assetstore.unity3d.com/en/#!/content/33121
+
