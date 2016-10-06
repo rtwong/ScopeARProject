@@ -25,6 +25,10 @@ Question 3: Simple Unity FPS
     
     http://answers.unity3d.com/questions/19710/shooting-a-bullet-projectile-properly.html
     
+    Assests:
+    Unity Chan: https://www.assetstore.unity3d.com/en/#!/content/18705
+    Cute Kitten: https://www.assetstore.unity3d.com/en/#!/content/33121
+    
     
    
 
