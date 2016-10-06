@@ -1,4 +1,4 @@
-==Simple FPS Project
+Simple FPS Project
 
 *Mouse controls to aim in first person
 
